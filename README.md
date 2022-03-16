@@ -1,2 +1,2 @@
 # movie_app_kmp
-Приложение на KMP с использованием Compose Multiplatform
+Приложение с использованием Compose Multiplatform
